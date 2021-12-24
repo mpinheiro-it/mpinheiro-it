@@ -1,15 +1,40 @@
-### Hi there 👋
+## Olá! Eu sou o Murilo. 
 
-<!--
-**mpinheiro-it/mpinheiro-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Estudante de análise e desenvolvimento de sistemas.
+- ⚡ Me dedicando a me tornar um desenvolvedor web Full Stack 
+- 👽 Um pouco sobre mim:
 
-Here are some ideas to get you started:
+<div align="center">  
+  <a href="https://github.com/mpinheiro-it">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpinheiro-it&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpinheiro-it&layout=compact&langs_count=7&theme=gotham"/>
+  <a>
+</div>
+    
+    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+   
+<!--  
+<div align="center">
+  <img src="https://media.giphy.com/media/Qz5jpVnWEe2Ke09pn7/giphy-downsized-large.gif" width="300px" height="300px">
+</div>  
+    
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+-  Atualmente me aprofundando em Javascript
+- ☕ Viciado em café 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
