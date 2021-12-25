@@ -10,7 +10,7 @@
   <a href="https://github.com/mpinheiro-it">      
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mpinheiro-it&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpinheiro-it&layout=compact&langs_count=7&theme=gotham"/>
-  <img src="https://media.giphy.com/media/Qz5jpVnWEe2Ke09pn7/giphy-downsized-large.gif" width="150px" height="150px">
+  <img src="https://media.giphy.com/media/Qz5jpVnWEe2Ke09pn7/giphy-downsized-large.gif" width="130px" height="130px">
   <a>
 </div>
     
