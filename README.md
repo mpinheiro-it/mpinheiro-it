@@ -1,11 +1,12 @@
 ## Olá! Eu sou o Murilo 👋🤓
-<img src="https://media.giphy.com/media/Qz5jpVnWEe2Ke09pn7/giphy-downsized-large.gif" width="200px" height="200px"><br>
+
 - ⚡ Um desenvolvedor web Full Stack em treinamento
 - 🕹️ Trabalhei por nove anos com suporte e operações de TI
 - 📚 Estudante de análise e desenvolvimento de sistemas
-- ☕ Um amante de tecnologia, café, bons livros e de <a href="https://www.bbc.com/portuguese/noticias/2015/10/151004_hygge_dinamarca_feliz_lab">Hygge</a>
+- ☕ Um amante e curioso por diferentes tecnologias.
+- 🌱 Inspirado por café, bons livros e pela cultura <a href="https://www.bbc.com/portuguese/noticias/2015/10/151004_hygge_dinamarca_feliz_lab">Hygge</a>
 
-## 
+##
 
 <div align="left">  
   <a href="https://github.com/mpinheiro-it">      
@@ -32,7 +33,7 @@ Have fun!<br>
 
 
 
-
+<img src="https://media.giphy.com/media/Qz5jpVnWEe2Ke09pn7/giphy-downsized-large.gif" width="200px" height="200px"><br>
 
 
 
