@@ -1,7 +1,16 @@
-<h2 align="center"> Olá! Eu sou o Murilo 👋🤓 </h2>
+## Olá! Eu sou o Murilo 👋🤓
 
-<div align="center">
-  <p text-align="left">
+<div style="{display: inline-block}">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="40"/>
+</div>
+
+<div>
+  <p>
 - ⚡ Um desenvolvedor web Full Stack em treinamento<br>
 - 🕹️ Trabalhei por nove anos com suporte e operações de TI<br>
 - 📚 Estudante de análise e desenvolvimento de sistemas<br>
@@ -12,13 +21,7 @@
 
   ##
 
-<div style="{display: inline-block}" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="40"/>
+
   <br>
   <a href="https://github.com/mpinheiro-it">      
   <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mpinheiro-it&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> -->
