@@ -21,8 +21,9 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" width="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="40"/>                                                 <img align="right"src="https://media.giphy.com/media/Qz5jpVnWEe2Ke09pn7/giphy-downsized-large.gif" width="140px" height="140px"><br>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="40"/>                                                 <img align="right"src="https://media.giphy.com/media/Qz5jpVnWEe2Ke09pn7/giphy-downsized-large.gif" width="150px" height="150px"><br>
 </div>
 
   ##
+  <br>  
 <a href="www.linkedin.com/in/murilo-pinheiro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>                      <a href="mailto:pinheiromurilo13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
