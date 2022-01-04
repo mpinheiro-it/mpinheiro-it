@@ -2,10 +2,10 @@
 
 <div>
   <p>
-- ⚡ Um desenvolvedor web Full Stack em treinamento<br>
+- ⚡ Atualmente estudando Javascript e Node JS<br>
 - 🕹️ Trabalhei por nove anos com suporte e operações de TI<br>
-- 📚 Estudante de análise e desenvolvimento de sistemas<br>
-- 🌱 Inspirado por ☕, música e bons livros<br>                                                                                                                                     </p>                                                                                                                                             
+- 📚 Cursando de análise e desenvolvimento de sistemas<br>
+- 🌱 Inspirado por café, música e bons livros<br>                                                                                                                                 </p>                                                                                                                                             
 </div>
 
 
