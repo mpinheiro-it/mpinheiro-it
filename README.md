@@ -3,7 +3,7 @@
 <div>
   <p>
 - ⚡ Atualmente estudando Javascript e Node JS<br>
-- 🕹️ Trabalhei por nove anos com suporte e operações de TI<br>
+- 🕹️ Nove anos de xp com suporte e operações de TI<br>
 - 📚 Cursando de análise e desenvolvimento de sistemas<br>
 - 🌱 Inspirado por café, música e bons livros<br>                                                                                                                                 </p>                                                                                                                                             
 </div>
