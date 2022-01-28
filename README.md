@@ -1,16 +1,16 @@
-## Olá! Eu sou o Murilo 👋🤓
+## Olá! Eu sou o Murilo 👋
 
 <div>
   <p>
-- ⚡ Atualmente estudando Javascript e React<br>
+- ⚡ Desenvolvedor Full Stack em treinamento. Atualmente focado em Front End com React JS<br>
 - 🕹️ Nove anos de xp com suporte e operações de TI<br>
-- 📚 Cursando de análise e desenvolvimento de sistemas<br>
+- 📚 Cursando Análise e Desenvolvimento de Sistemas<br>
 - 🌱 Inspirado por café, música e bons livros<br>                                                                                                                                 </p>                                                                                                                                             
 </div>
 
 
   <a href="https://github.com/mpinheiro-it">      
-  <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mpinheiro-it&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mpinheiro-it&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpinheiro-it&layout=compact&langs_count=7&theme=gotham&count_private=true""/>   
  </a>
 <br>
@@ -26,7 +26,7 @@
   <img align="center" alt="Node JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" width="40" />
   <img align="center" alt="MySQL"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="40"/>
                                                                                                                                               
-  <img alt="Yoda" align="right" src="https://media.giphy.com/media/Qz5jpVnWEe2Ke09pn7/giphy-downsized-large.gif" width="150px" height="150px"><br>
+  <img alt="Yoda" align="right" src="https://media.giphy.com/media/Qz5jpVnWEe2Ke09pn7/giphy-downsized-large.gif" width="150px" height="150px">
 </div>
 
   ##
