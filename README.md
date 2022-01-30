@@ -7,10 +7,10 @@
 - Cursando Análise e Desenvolvimento de Sistemas. 
 - Inspirado por café, música e bons livros.
 
-## Contato
+## :mailbox_with_mail: Contato
   <a href="https://linkedin.com/in/murilo-pinheiro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>                 <a href="mailto:pinheiromurilo13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
-## Skills
+## 🛠 Skills
 
 <div style="{display: inline-block}">
   <img align="center" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="40"/>
