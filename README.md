@@ -21,14 +21,14 @@ NOW
 BIO
 
 - :computer: Nine years of experience working with IT Support and Operations.<br>
-- :books: Pursuing a software engineering degree.<br>
+- :books: Pursuing a Software Engineering degree.<br>
 - 🌱 Moved by coffee, music and good books.<br>
  
   
   <!-- label="😋"
-<img alt="Yoda" align="right" src="https://media.giphy.com/media/Qz5jpVnWEe2Ke09pn7/giphy-downsized-large.gif" width="150px" height="150px">
+
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mpinheiro-it&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
- 
+ <img alt="Yoda" src="https://media.giphy.com/media/Qz5jpVnWEe2Ke09pn7/giphy-downsized-large.gif" width="150px" height="150px">
 ###  Skills
 
 <div style="{display: inline-block}">
