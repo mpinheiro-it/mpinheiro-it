@@ -1,4 +1,4 @@
-<div align="center">
+
   
 ### Hi There! :wave:
 
@@ -7,25 +7,24 @@
 <a href="https://linkedin.com/in/murilo-pinheiro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:pinheiromurilo13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
-</div>
+
 
 <hr>
 
 NOW
 
-- :rocket: Learning React and Next JS
+- :rocket: Learning React and Next JS.
 
 BIO
 
-- :computer: Nine years of experience working with IT Support and Operations<br>
-- :books: Pursuing a software engineering degree<br>
+- :computer: Nine years of experience working with IT Support and Operations.<br>
+- :books: Pursuing a software engineering degree.<br>
 - 🌱 Moved by coffee, music and good books.<br>
 
  <a href="https://github.com/mpinheiro-it">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpinheiro-it&layout=compact&langs_count=7&theme=gotham&count_private=true""/>
   </a>
 
-  
 
  
   
