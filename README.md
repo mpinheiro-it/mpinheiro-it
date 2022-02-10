@@ -16,7 +16,7 @@
 
 NOW
 
-- :rocket: Learning React and Next JS.
+- :rocket: Learning React JS and Typescript.
 
 BIO
 
