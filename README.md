@@ -9,6 +9,7 @@
   
    <a href="https://github.com/mpinheiro-it">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpinheiro-it&layout=compact&langs_count=7&theme=gotham&count_private=true""/>
+  
   </a>
 </div>
 
