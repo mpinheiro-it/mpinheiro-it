@@ -22,7 +22,7 @@ NOW
 BIO
 
 - :computer: Nine years of experience working with IT Support and Operations.<br>
-- :books: Pursuing a Software Engineering degree.<br>
+- :books: Pursuing a System's Analysis and Development degree.<br>
 - 🌱 Moved by coffee, music and good books.<br>
  
   
