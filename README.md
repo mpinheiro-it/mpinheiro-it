@@ -2,7 +2,7 @@
   
 ### Hi There! :wave:
 
-**I am a Front-End Engineer living in São Paulo, Brazil.**
+**I am a Systems Engineer living in São Paulo, Brazil.**
 
 <a href="https://linkedin.com/in/murilo-pinheiro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:pinheiromurilo13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -17,11 +17,11 @@
 
 NOW
 
-- :rocket: Learning React JS and TypeScript.
+- :rocket: Learning more on Linux and AWS.
 
 BIO
 
-- :computer: Nine years of experience working with IT Support and Operations.<br>
+- :computer: Ten years of experience working with IT Systems Administration and Support.<br>
 - :books: Pursuing a System's Analysis and Development degree.<br>
 - 🌱 Moved by coffee, music and good books.<br>
  
