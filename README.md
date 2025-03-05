@@ -1,12 +1,11 @@
-Hi there! :wave: I am a Systems Engineer living in São Paulo, Brazil.
+Systems Engineer and Administrator. Passionate about all things Cloud and DevOps.
 
 <a href="https://linkedin.com/in/murilo-pinheiro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:pinheiromurilo13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
   <!-- 
 <a href="https://github.com/mpinheiro-it">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpinheiro-it&layout=compact&langs_count=7&theme=gotham&count_private=true""/>
-  
+  <a href="mailto:pinheiromurilo13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </a>
 
 <hr>
